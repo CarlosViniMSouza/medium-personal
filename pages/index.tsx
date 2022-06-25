@@ -37,6 +37,7 @@ const Home: NextPage = () => {
         />
 
       </div>
+      {/* Posts */}
     </div>
   )
 }
